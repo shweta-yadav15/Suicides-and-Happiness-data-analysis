@@ -7,6 +7,8 @@ In addition to seaborn I have used plotly which is more interactive library. Lin
 
 Initially, I have planned to use just one dataset(the suicides one) but later I have decided to add one happiness datset from the year 2015 as well because the word suicide all over the notebook was very somber. Link: https://www.kaggle.com/unsdsn/world-happiness
 
+Blog Post: https://medium.com/@shwets1503/facts-about-suicides-and-happiness-7d0e733ae054
+
 Summary of results of the analysis:
 * Country with highest number of suicides Russian Federation, United States and Japan.
 
