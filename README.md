@@ -14,7 +14,7 @@ Year 2020 have been a difficult year for all of us. Since the depression rates m
 
 ## Files in the repository
 - happiness_data.csv: Happiness dataset for the year 2015.
-- suicides_data.csv: Suicides dataset for the years 1985 to 2016.
+- suicide_data.csv: Suicides dataset for the years 1985 to 2016.
 - suicides_happiness_data_analysis.ipynb: Notebook file contaning the exploration and analysis of the work.
 - readme.md: The readme file for write-up.
 
