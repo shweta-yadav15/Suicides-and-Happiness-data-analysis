@@ -14,6 +14,10 @@ Year 2020 have been a difficult year for all of us. Since the depression rates m
 
 
 ## Files in the repository
+- happiness_data.csv: Happiness dataset for the year 2015.
+- suicides_data.csv: Suicides dataset for the years 1985 to 2016.
+- suicides_happiness_data_analysis.ipynb: Notebook file contaning the exploration and analysis of the work.
+- readme.md: The readme file for write-up.
 
 
 ## Summary of the results
@@ -36,8 +40,8 @@ number overall from 1985.
 - Udacity
 - stackoverflow
 
+## Additional Resource
 
-
-Blog Post: https://medium.com/@shwets1503/facts-about-suicides-and-happiness-7d0e733ae054
+Accompanying Blog Post: https://medium.com/@shwets1503/facts-about-suicides-and-happiness-7d0e733ae054
 
 
