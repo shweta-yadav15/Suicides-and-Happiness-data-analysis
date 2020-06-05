@@ -7,7 +7,6 @@
 - Seaborn
 - Plotly
 - Cufflinks
---
 
 ## Project motivation
 Year 2020 have been a difficult year for all of us. Since the depression rates might spike in the cureent situation due to economy and health, they can lead to more number of suicides in coming times. I wanted to learn what factors in past years affected the number of suicides. Also, to see other side of the spectrum I wanted to understand how happinessof a country depends on different factors.
@@ -42,6 +41,6 @@ number overall from 1985.
 
 ## Additional Resource
 
-Accompanying Blog Post: https://medium.com/@shwets1503/facts-about-suicides-and-happiness-7d0e733ae054
+Accompanying blog post: https://medium.com/@shwets1503/facts-about-suicides-and-happiness-7d0e733ae054
 
 
