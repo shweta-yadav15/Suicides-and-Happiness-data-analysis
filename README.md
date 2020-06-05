@@ -1,4 +1,13 @@
-# Visualizations
+# Suicides and Happinesss Data Analysis
+
+Libraries Used
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Plotly
+- Cufflinks
+
 Using visualization tools like seaborn and plotly libraries to answer important questions about the number of suicides all over the world in the period 1985-2016. The data I am using is from Kaggle called "Suicide Rates Overview 1985 to 2016: Compares socio-economic info with suicide rates by year and country".
 
 I have used matplotlib in past but I am fairly new to seaborn. A notebook in kaggle was very helpful in increasing my familiarity with it. Link: https://www.kaggle.com/rblcoder/mental-health-happiness-economics-human-freedom
