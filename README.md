@@ -41,6 +41,6 @@ number overall from 1985.
 
 ## Additional Resource
 
-Accompanying blog post: https://medium.com/@shwets1503/facts-about-suicides-and-happiness-7d0e733ae054
+You can find the accompanying blog post here: https://medium.com/@shwets1503/facts-about-suicides-and-happiness-7d0e733ae054
 
 
